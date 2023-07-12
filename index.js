@@ -17,3 +17,7 @@ document.getElementById("coverpic").backL=`background-image: url('${imgarr[0]}')
     displayImage(x);
   },8000);
   }
+  hsdhcsbchskbckjsacbka
+  asndbkasnca
+  asnbcxkasbcas
+  abcasc;satisfies
